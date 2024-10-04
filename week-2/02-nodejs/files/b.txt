@@ -1,0 +1,1 @@
+Questo libro, rivolto a chi conosce già il linguaggio di programmazione C++, spiega come sviluppare software efficiente e poi di ottimizzare il programma risultante. 
